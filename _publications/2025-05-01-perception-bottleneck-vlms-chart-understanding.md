@@ -5,7 +5,6 @@ category: manuscripts
 permalink: /publication/2025-perception-bottleneck-vlms-chart-understanding
 date: 2025-05-01
 venue: 'Arxiv'
-github: 'https://github.com/Vicent0205'
 citation: 'Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. (2025). &quot;On the Perception Bottleneck of VLMs for Chart Understanding.&quot; <i>Arxiv</i>.'
 ---
 
